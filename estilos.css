@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+body{
+    margin-left: 25px;
+}
+h2{
+    color:#3b3b3b
+}
+
+img {
+    
+    width: 400px;
+    height: 200px;
+}
+
+table{
+    border: 1px;
+    border-color:#000000;
+    
+    
+}
+
+th {
+    background-color:#808080;
+    color:#ffffff;
+}
+
+#primerafila {
+
+    border-top: #ffffff;
+    border-left:#ffffff ;
+    border-right: #ffffff;
+    border-bottom: #ffffff;
+
+}
+
+#ultimafila {
+    background-color:#EAE7E6 ;
+}
+
+
+
